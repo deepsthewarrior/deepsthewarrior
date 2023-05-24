@@ -1,5 +1,6 @@
 ### Hi there 👋
-- 🌱 I’m currently learning so MANY things!!
+- 🔭 I do research on AI at The German Resesarch Center for Artificial Intelligence. I also work on low level security at CISPA.
+- 🌱 It's all Math everywhere :)
 
 <!--
 **deepsthewarrior/deepsthewarrior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
